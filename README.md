@@ -5,7 +5,8 @@ Cross-platform SSD optimization and health utility for **macOS** and **Windows**
 TRIM activation · Write-cycle saver · IOPS-oriented tuning · Drive lifespan helpers
 
 > Not a low-level driver pack. Scripts call built-in OS tools (`trimforce`, `sysctl`, `fsutil`, PowerShell cmdlets). Review every script before you run it. This is not a warranty that your SSD will last 30% longer.
- [![SSD-Tweaker-Suite Banner](./banner1.svg)](https://github.com/lavenderrescuerblaze/ssd-tweaker-suite)
+
+ [![SSD-Tweaker-Suite Banner](./banner.jpg)](https://github.com/lavenderrescuerblaze/ssd-tweaker-suite)
 <p align="center">
   <a href="#"><img src="https://img.shields.io/badge/version-3.0.0-FF0050?style=for-the-badge" alt="Version"></a>
   <a href="#"><img src="https://img.shields.io/badge/platform-Windows_10%2F11-2ECC71?style=for-the-badge" alt="Platform"></a>
